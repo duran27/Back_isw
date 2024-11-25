@@ -1,0 +1,7 @@
+flask==3.0.2
+flask-cors==4.0.0
+python-dotenv==1.0.1
+sqlalchemy==2.0.28
+marshmallow==3.21.1
+mysqlclient==2.2.4
+pymysql==1.1.0
